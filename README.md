@@ -8,3 +8,4 @@ https://sourceware.org/binutils/docs/ld/
 https://book.douban.com/subject/1436811/
 https://book.douban.com/subject/26344642/buylinks
 http://www.xml.com/ldd/chapter/book/ch13.html
+http://www.dyninst.org/instruction
