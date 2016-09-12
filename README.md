@@ -10,4 +10,4 @@ https://book.douban.com/subject/26344642/buylinks
 http://www.xml.com/ldd/chapter/book/ch13.html
 http://www.dyninst.org/instruction
 
-现代处理器，包括 虚拟地址技术（物理寻址技术）， 并行计算技术，
+现代处理器，包括 虚拟地址翻译技术（物理寻址技术）， 并行计算技术，
