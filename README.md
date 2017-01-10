@@ -20,3 +20,5 @@ http://www.dyninst.org/instruction
 
 觉醒来自积累，来自阅读，来自经历； 往往来自一次成功的事件。
 觉醒带来人格的提升。
+
+https://upclinux.github.io/intro/07/script/
