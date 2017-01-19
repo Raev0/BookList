@@ -24,3 +24,7 @@ http://www.dyninst.org/instruction
 https://upclinux.github.io/intro/07/script/
 
 http://nameberry.com/
+
+http://norvig.com/21-days.html
+
+http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html
