@@ -28,3 +28,7 @@ http://nameberry.com/
 http://norvig.com/21-days.html
 
 http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html
+
+https://en.wikivoyage.org/wiki/Legian
+
+http://www.journey.ca/2013/04/05/bali-busway-is-here/
