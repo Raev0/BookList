@@ -34,3 +34,7 @@ https://en.wikivoyage.org/wiki/Legian
 http://www.journey.ca/2013/04/05/bali-busway-is-here/
 
 http://harttle.com/
+awk
+http://tldp.org/LDP/abs/html/  经典 ABS
+The Awk programming language    awk 创始人作品
+https://www.zhihu.com/question/19745611 知乎推荐
