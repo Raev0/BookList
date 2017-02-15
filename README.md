@@ -38,3 +38,5 @@ awk
 http://tldp.org/LDP/abs/html/  经典 ABS
 The Awk programming language    awk 创始人作品
 https://www.zhihu.com/question/19745611 知乎推荐
+
+工程两大荷尔蒙源，来自于设计的优雅，来自于实现的精确。欲罢不能。
