@@ -40,3 +40,12 @@ The Awk programming language    awk 创始人作品
 https://www.zhihu.com/question/19745611 知乎推荐
 
 工程两大荷尔蒙源，来自于设计的优雅，来自于实现的敏捷。欲罢不能。
+
+《google C++ code style》 (google C++编程指南)
+《C++编程规范101条规则、准则与最佳实践》
+Microsoft All-In-One Code Framework《微软一站式示例代码库》
+C++ primer
+effective C++ / more effective C++
+Effective STL
+inside the C++ object model
+
