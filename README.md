@@ -60,3 +60,5 @@ http://blog.csdn.net/sxhelijian/article/details/21482177
 
 unix历史
 http://coolshell.cn/articles/2322.html
+sed and awk 2nd edition
+http://linux.iingen.unam.mx/pub/Documentacion/Shell-Bash/OReilly%20-%20Sed%20&%20Awk%202nd%20Edition.pdf
