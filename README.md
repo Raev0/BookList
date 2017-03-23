@@ -66,3 +66,6 @@ http://linux.iingen.unam.mx/pub/Documentacion/Shell-Bash/OReilly%20-%20Sed%20&%2
 DZ31QZGJ0LWEUX9X23K6ZUSVJF4FJTH4D1N5DFEEC3EKERHQS8SYPEWVZ
 
 8X992AP8KLWUZ9RD5ANWAHGT6VJ5XJDDQTJDA1QA0TAKPY2HN521SUDVZ
+
+
+http://www.lofter.com/selection?X-From-ISP=2&id=1182100&type=2&utm_term=ad_2754&urschecked=true
