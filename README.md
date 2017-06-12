@@ -134,3 +134,18 @@ read artical watch Movie & Communicate(hear)
 2. 读C++ 代码习题练习。判断输出多选
 3. 熟悉继承，虚函数和异常处理概念。
 4. 核心网编程军规。
+
+
+渴望胜利
+可靠的技能
+可靠的工具
+可靠的团队
+
+SDN/NFV
+OPNFV D
+Docker
+Openshift
+K8S
+Openstack
+ODL
+ONAP
