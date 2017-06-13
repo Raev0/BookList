@@ -149,3 +149,6 @@ K8S
 Openstack
 ODL
 ONAP
+
+
+征服 网络，计算机和日语
