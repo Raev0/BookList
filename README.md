@@ -170,3 +170,4 @@ https://www.google.com/search?q=operation+synstem%3A+internals+and+design+princi
 程序设计。主导一个OOP软件工程。
 
 知识（没用） -> 原理 -> 哲学智慧（没用）
+酷不酷 -> 真不真 -> 没用
