@@ -180,4 +180,4 @@ UNIX Network Programming https://www.google.com/search?q=UNIX+Network+Programmin
 
 Making it Big in Software: Get the job. Work the org. Become great
 
-kotlin go swift erlang python perl javascript C++
+kotlin go swift erlang python perl ruby javascript C++ LIPS 
