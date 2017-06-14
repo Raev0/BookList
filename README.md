@@ -168,3 +168,5 @@ https://www.google.com/search?q=operation+synstem%3A+internals+and+design+princi
 用代码实现一个编译原理 编译原理
 计算机系统。 多进程内核缓存设计。内存驱动？并行计算？ arm x86 指令集优化
 程序设计。主导一个OOP软件工程。
+
+知识（没用） -> 原理 -> 哲学智慧（没用）
