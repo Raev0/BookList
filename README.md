@@ -181,4 +181,8 @@ UNIX Network Programming https://www.google.com/search?q=UNIX+Network+Programmin
 
 Making it Big in Software: Get the job. Work the org. Become great
 
-kotlin go swift erlang python perl ruby javascript C++ LIPS 
+kotlin go swift erlang python perl ruby javascript C++ LIPS
+
+很不好的两段时期
+2007年2月到2007年11月
+2013年
