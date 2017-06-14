@@ -162,7 +162,7 @@ danielHeight
 新兴港湾1004
 高科摩卡3205
 高科尚都2904
-
+Operating Systems: Internals and Design Principles
 https://www.google.com/search?q=operation+synstem%3A+internals+and+design+principle&oq=operation+synstem%3A%E3%80%80internals+and+design+principle&aqs=chrome..69i57.26473j0j7&sourceid=chrome&ie=UTF-8
 用代码实现一个操作系统 操作系统
 用代码实现一个编译原理 编译原理
@@ -174,3 +174,6 @@ https://www.google.com/search?q=operation+synstem%3A+internals+and+design+princi
 
 知识（没用） -> 原理 -> 哲学智慧（没用）
 酷不酷 -> 真不真 -> 没用
+UNIX and Linux System Administration Handbook
+UNIX Network Programming https://www.google.com/search?q=UNIX+Network+Programming&oq=UNIX+Network+Programming&aqs=chrome..69i57.13954j0j8&sourceid=chrome&ie=UTF-8
+
