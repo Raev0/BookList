@@ -166,5 +166,5 @@ danielHeight
 https://www.google.com/search?q=operation+synstem%3A+internals+and+design+principle&oq=operation+synstem%3A%E3%80%80internals+and+design+principle&aqs=chrome..69i57.26473j0j7&sourceid=chrome&ie=UTF-8
 用代码实现一个操作系统 操作系统
 用代码实现一个编译原理 编译原理
-计算机系统。 多进程内核缓存设计。内存驱动？并行计算？
+计算机系统。 多进程内核缓存设计。内存驱动？并行计算？ arm x86 指令集优化
 程序设计。主导一个OOP软件工程。
