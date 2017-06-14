@@ -174,6 +174,7 @@ https://www.google.com/search?q=operation+synstem%3A+internals+and+design+princi
 
 知识（没用） -> 原理 -> 哲学智慧（没用）
 酷不酷 -> 真不真 -> 没用
+knowHow -> knowWhat -> knowWhy
 UNIX and Linux System Administration Handbook
 UNIX Network Programming https://www.google.com/search?q=UNIX+Network+Programming&oq=UNIX+Network+Programming&aqs=chrome..69i57.13954j0j8&sourceid=chrome&ie=UTF-8
 
