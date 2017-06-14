@@ -177,3 +177,5 @@ https://www.google.com/search?q=operation+synstem%3A+internals+and+design+princi
 UNIX and Linux System Administration Handbook
 UNIX Network Programming https://www.google.com/search?q=UNIX+Network+Programming&oq=UNIX+Network+Programming&aqs=chrome..69i57.13954j0j8&sourceid=chrome&ie=UTF-8
 
+
+Making it Big in Software: Get the job. Work the org. Become great
