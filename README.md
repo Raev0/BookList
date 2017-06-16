@@ -186,3 +186,6 @@ kotlin go swift erlang python perl ruby javascript C++ LIPS
 很不好的两段时期
 2007年2月到2007年11月
 2013年
+
+
+http://www.sohu.com/a/147741592_313480 
