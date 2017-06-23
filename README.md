@@ -195,3 +195,6 @@ http://www.sohu.com/a/124767434_465207
 https://book.douban.com/subject/26878499/?channel=subject_list&platform=web
 
 https://book.douban.com/subject/24738302/
+
+
+相对来说 Rust、Go、Scala、Ruby、Python 这几种近几年较流行的语言工资较高
