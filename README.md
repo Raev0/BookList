@@ -248,5 +248,6 @@ http://ishare.down.sina.com.cn/25237135.pdf?ssig=9QKg3nLvIt&Expires=1503156972&K
 http://jjhou.boolan.com/
 
 CSAPP
-THINGING IN C++
-EFFECTIVE C++
+C++ premier      encyclopaedia
+THINGING IN C++  
+EFFECTIVE C++	
