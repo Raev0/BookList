@@ -246,3 +246,7 @@ A：我的英文不好是事實，不是謙虛，你們千萬別對我說英語�
 http://ishare.down.sina.com.cn/25237135.pdf?ssig=9QKg3nLvIt&Expires=1503156972&KID=sina,ishare&ip=&fn=%E4%B8%8A%E7%A9%B7%E7%A2%A7%E8%90%BD%E4%B8%8B%E9%BB%84%E6%B3%89-%E6%BA%90%E7%A0%81%E8%BF%BD%E8%B8%AA%E7%BB%8F%E9%AA%8C%E8%B0%88%28%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%89%88%2C%E4%BE%AF%E6%8D%B7%29.pdf
 
 http://jjhou.boolan.com/
+
+CSAPP
+THINGING IN C++
+EFFECTIVE C++
