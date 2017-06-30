@@ -251,3 +251,6 @@ CSAPP
 C++ premier      encyclopaedia
 THINGING IN C++  
 EFFECTIVE C++	
+
+先用winrar之类按文件类型打包，然后再解压，这样就排除了非代码文件
+然后用 windirstat 来观察代码量 分布，直观感受架构和重点
