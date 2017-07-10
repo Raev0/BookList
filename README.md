@@ -261,3 +261,6 @@ http://blog.csdn.net/wemedia/details.html?id=38710
 https://book.douban.com/subject/1967356/
 https://book.douban.com/subject/1452107/
 http://baike.baidu.com/item/%E5%83%8F%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83/12345431
+《人件》
+
+每天整理3条软件工程行业头条，作为(留言板)/订阅号。后期作为某种自动应用开发出来。
