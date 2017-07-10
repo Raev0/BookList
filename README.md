@@ -257,3 +257,5 @@ EFFECTIVE C++
 http://blog.csdn.net/wemedia/details.html?id=38710
 
 《Masters of Scale》是LinkedIn联合创始人雷德·霍夫曼（Reid Hoffman）创办的一档播客节目，他会定期邀请著名的创始人参加节目。本集他邀请了 Facebook CEO 扎克伯格，他们讨论了一个问题：当你推出第一款产品时，如果产品没有让你感到尴尬困窘，说明推出产品的时间太迟了。霍夫曼认为，扎克伯格之所以成功，就是因为他大胆推出不成熟的产品，倾听用户的意见，不断改进。这种开发策略帮助 Facebook 走向成功。
+
+https://book.douban.com/subject/1967356/
