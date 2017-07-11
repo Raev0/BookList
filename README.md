@@ -270,7 +270,7 @@ http://www.sohu.com/a/155909500_350699?loc=1&focus_pic=0
 http://www.sohu.com/a/155862404_108060?loc=1&focus_pic=1 
 
 
-C++功力（面向对象功力）； 修改， 复用和去依赖（特别循环依赖）。：《大规模C++程序设计》
+C++功力（面向对象功力）； 修改， 复用和去依赖（特别循环依赖）(维护，开发，测试)。：《大规模C++程序设计》
 
 SAAS  salesforce.com  把企业的私人IBM精密机房移到浏览器上 ， CRM Costumer Relationship Management
 IAAS   把基础架构开放给公众用户 AWS  EC2 Elastic Computing Cloud
