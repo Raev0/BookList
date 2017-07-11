@@ -277,3 +277,5 @@ IAAS   把基础架构开放给公众用户 AWS  EC2 Elastic Computing Cloud
 PAAS  google app engine
 NIST U.S.National Institute of Standards and Technology :NIST Working Definition of Cload Computing/NIST 800-145
 大数据是云计算趋势下的数据爆炸  搜索引擎是数据入口之一
+
+https://book.douban.com/subject/3852290/
