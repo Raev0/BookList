@@ -270,4 +270,10 @@ http://www.sohu.com/a/155909500_350699?loc=1&focus_pic=0
 http://www.sohu.com/a/155862404_108060?loc=1&focus_pic=1 
 
 
-C++功力（面向对象功力）； 复用和去依赖。：《大规模C++程序设计》
+C++功力（面向对象功力）； 复用和去依赖（特别循环依赖）。：《大规模C++程序设计》
+
+SAAS  salesforce.com  把企业的私人IBM精密机房移到浏览器上 ， CRM Costumer Relationship Management
+IAAS   把基础架构开放给公众用户 AWS  EC2 Elastic Computing Cloud
+PAAS  google app engine
+NIST U.S.National Institute of Standards and Technology :NIST Working Definition of Cload Computing/NIST 800-145
+大数据是云计算趋势下的数据爆炸  搜索引擎是数据入口之一
