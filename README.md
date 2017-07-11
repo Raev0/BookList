@@ -268,3 +268,6 @@ http://baike.baidu.com/item/%E5%83%8F%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%80%E6%A0%
 咨询行业作为高级服务业，一定会越来越繁荣。
 http://www.sohu.com/a/155909500_350699?loc=1&focus_pic=0 
 http://www.sohu.com/a/155862404_108060?loc=1&focus_pic=1 
+
+
+C++功力； 复用和去依赖。：《大规模C++程序设计》
