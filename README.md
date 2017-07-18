@@ -284,3 +284,18 @@ TheNewStack_Book1_The_Docker_and_Container_Ecosystem.pdf
 TheNewStack_Book2_Applications_and_Microservices_with_Docker_and_Containers.pdf
 TheNewStack_Book3_Automation_and_Orchestration_with_Docker_and_Containers.pdf
 GRE词汇。日语听说理解，docker和虚拟机，编译器和解释器。 八十一难挡路，七十二变制敌：千变万化的表达，火眼金睛的计算，历经磨难，才可取得真经。
+
+核心编程语言
+操作系统
+GUI编程
+结构和算法
+数据库
+XML和web编程
+用户友好语言
+面向对象设计
+CPU
+存储系统（RAID）
+固态存储设备（SSD）
+存储区域网络/网络附加存储（SAN/NAS）
+内存管理
+
