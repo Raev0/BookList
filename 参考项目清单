@@ -1,1 +1,19 @@
 
+gitlab        ruby-on-rail  https://gitlab.com/gitlab-org/gitlab-ce/
+phabricator   php           https://github.com/phacility/phabricator
+jenkins       j2EE          gerrit.googlesource.com/gerrit https://github.com/gerrit-review/gerrit
+docker        go            https://github.com/docker/docker-ce
+dyninst       c++           https://github.com/dyninst/dyninst
+marlin        c             https://github.com/MarlinFirmware/Marlin
+lcov          lcov          https://github.com/linux-test-project/lcov
+
+gui framework
+cura          python-gui    https://github.com/Ultimaker/Cura
+QT            c++           code.qt.io/qt/qt.git   https://github.com/qt/qtbase
+
+
+
+
+lua           https://github.com/torch/torch7
+
+erlang        http://couchdb.apache.org/
