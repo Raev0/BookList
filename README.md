@@ -334,3 +334,8 @@ RESET的影响和处理方案
 http://www.cbdio.com/BigData/2017-07/21/content_5561930.htm 国务院 人工智能
 
 https://www.healthcastle.com/gout-diet-what-foods-to-eat-and-avoid/
+
+练习手法
+CSAPP 里面有个很简单的Tiny web server
+Tiny撸完你可以看看 cesanta/mongoose · GitHub
+最后，Nginx在山顶等着你，如果你一直继续往上爬的话
