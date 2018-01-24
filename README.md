@@ -339,3 +339,6 @@ https://www.healthcastle.com/gout-diet-what-foods-to-eat-and-avoid/
 CSAPP 里面有个很简单的Tiny web server
 Tiny撸完你可以看看 cesanta/mongoose · GitHub
 最后，Nginx在山顶等着你，如果你一直继续往上爬的话
+
+重点阅读， 用来学linux和操作系统的指南
+https://en.wikipedia.org/wiki/Ftrace
